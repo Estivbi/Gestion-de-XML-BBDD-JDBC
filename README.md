@@ -12,6 +12,6 @@ Se tiene un archivo XML llamado "empleados.xml" con información sobre los emple
 
 A continuación se muestra un ejemplo de como quedaría el proyecto:
 
-[![Demostración del Proyecto](https://clipchamp.com/watch/zD7lA3c421i)](https://clipchamp.com/watch/zD7lA3c421i){:target="_blank"}
+[![Demostración del Proyecto](https://clipchamp.com/watch/zD7lA3c421i)](https://clipchamp.com/watch/zD7lA3c421i)
 
 
