@@ -11,5 +11,6 @@ Se tiene un archivo XML llamado "empleados.xml" con información sobre los emple
 5. Si se ejecuta varias veces el código, no debe repetirse en la base de datos el mismo usuariocon el mismo DNI.
 
 A continuación se muestra un ejemplo de como quedaría el proyecto:
-[![Resultado Final]([enlace_del_video](https://clipchamp.com/watch/zD7lA3c421i)https://clipchamp.com/watch/zD7lA3c421i)
+
+[![Resultado Final]((https://clipchamp.com/watch/zD7lA3c421i)https://clipchamp.com/watch/zD7lA3c421i)]
 
