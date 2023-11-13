@@ -9,3 +9,7 @@ Se tiene un archivo XML llamado "empleados.xml" con información sobre los emple
 	c. Utilice JDBC para conectarse a la base de datos y ejecutar los inserts generados.
 4. Imprimir en consola la cantidad de empleados insertados en la tabla.
 5. Si se ejecuta varias veces el código, no debe repetirse en la base de datos el mismo usuariocon el mismo DNI.
+
+A continuación se muestra un ejemplo de como quedaría el proyecto:
+[![Resultado Final]([enlace_del_video](https://clipchamp.com/watch/zD7lA3c421i)https://clipchamp.com/watch/zD7lA3c421i)
+
