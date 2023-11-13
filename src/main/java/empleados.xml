@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<empleados>
+    <empleado>
+        <nombre>Fernando</nombre>
+        <apellido>Alonso</apellido>
+        <dni>64775566A</dni>
+        <depto>Ventas</depto>
+    </empleado>
+    <empleado>
+        <nombre>Boba</nombre>
+        <apellido>Fett</apellido>
+        <dni>02156687B</dni>
+        <depto>Cobros</depto>
+    </empleado>
+    <empleado>
+        <nombre>Luka</nombre>
+        <apellido>Doncic</apellido>
+        <dni>12345678F</dni>
+        <depto>CEO</depto>
+    </empleado>
+    <empleado>
+        <nombre>Bilbo</nombre>
+        <apellido>Bolson</apellido>
+        <dni>65231149D</dni>
+        <depto>Recursos Humanos</depto>
+    </empleado>
+    <empleado>
+        <nombre>Ibai</nombre>
+        <apellido>Llanos</apellido>
+        <dni>00556787H</dni>
+        <depto>SocialMedia</depto>
+    </empleado>
+    <empleado>
+        <nombre>Miguel Angel</nombre>
+        <apellido>Duran</apellido>
+        <dni>24116532K</dni>
+        <depto>IT</depto>
+    </empleado>
+
+</empleados>
